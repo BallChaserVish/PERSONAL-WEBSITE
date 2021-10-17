@@ -1,0 +1,67 @@
+<HTML>
+
+<HEAD>
+<TITLE>Lab Assignment Week 1</TITLE>
+<div style="text-align: center">
+<img align="middle" src="K:\Scripting Language Lab\profile.jpg" alt="profile" width="300" height="300">
+</div>
+</HEAD>
+
+<BODY>
+<H1>Bio Data</H1>
+
+<TABLE WIDTH=”100%”>
+<TR><TD >Name: Vishwas Kesawani</TD></TR>
+<TR><TD ALIGN=”right”>Email: vishwas_201900203@smit.smu.edu.in</TD></TR>
+</TABLE>
+
+<H2>Education</H2>
+<TABLE WIDTH=”100%”cellspacing="0" cellpadding="0" border="1">
+  <tr>
+    <th>K.R.Mangalam World school</th>
+    <th>Year of Passing: 2019</th>
+     
+  </tr>
+  <tr>
+    
+    
+  </tr>
+  <tr>
+    <td>SMIT</td>
+    <td>2023</td>
+    
+  </tr>
+</TABLE>
+
+<H2>Experience</H2>
+<OL>
+<LI>Certification and degree</LI>
+<UL style="list-style-type:disc">
+<LI>Btech in CSE from SMIT</LI>
+</UL>
+</UL>
+<LI>Internship</LI>
+<UL style="list-style-type:disc">
+<LI>8 month internship at Marwar cap company as frontend developer</LI>
+</UL>
+</OL>
+
+<H2>References</H2>
+<TABLE WIDTH=”100%”cellspacing="0" cellpadding="0" border="1">
+  <tr>
+    <th>Company</th>
+    <th>Supervisor</th>
+    <th>Email</th>
+  </tr>
+  <tr>
+    <td>Marwar cap</td>
+    <td>Mr Krunal </td>
+    <td> krunal.marwarcap@gmail.com</a></td>
+  <tr>
+    <td>B</td>
+    <td>Mr Donald</td>
+    <td><a href="url"> don.b@gmail.com</a></td>
+</TABLE>
+
+</BODY>
+</HTML>
